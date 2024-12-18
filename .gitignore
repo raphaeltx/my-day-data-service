@@ -1,0 +1,47 @@
+# Maven target directory
+/target/
+
+# IntelliJ IDEA files
+/.idea/
+/*.iml
+/.classpath
+/.project
+/.settings/
+/out/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# Compiled bytecode
+*.class
+
+# Maven Wrapper files
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+# Generated binaries
+*.war
+*.jar
+
+# Files generated at runtime
+*.pid
+
+# Spring Boot specific files
+hs_err_pid*
+spring.log
+
+# Git-specific files
+*.orig
+
+# Ignore all .env files (common for environment variables)
+.env
